@@ -1,4 +1,4 @@
-# Hellooo, I am Andre🎵👌🙌
+# Hellooo, I am Andre👌🙌
 
 <img src="https://softwaremill.com/user/pages/blog/programmers-day-programming-memes-2022/debugging-programming-meme.png?g-0f0b1373">
 
