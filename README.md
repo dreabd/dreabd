@@ -1,11 +1,8 @@
 # Hellooo, I am Andre🎵👌🙌
 
+<img src="https://softwaremill.com/user/pages/blog/programmers-day-programming-memes-2022/debugging-programming-meme.png?g-0f0b1373">
 
 ## About Me
-I am a musician; I create and produce intentionally arranged sounds for people to enjoy. I played in countless groups where I had to adapt to their style of music or the medium in which I produce music. However music was not my passion, it was something that I picked up because I thought it would be fun. The same could be said about my passion for psychology / child development. The driving force of these passions, what drove me towards a career in software engineering: curiosity.  
-
-Curiosity without action is like spending 10,000 hours of watching / reading about sports without actually engaging in sports. I am not the type of person to sit still: I do not wait for my music to sound better, I do not wait for my client’s behavopr to improve,and most importantly, I do not wait for my code to work. I try and fail many times before I get the results that I want. Failure and reflection are necessary to improve.
-
 With a solid foundation in Psychology, I bring a unique perspective to the field of Software Engineering. My ability to comprehend user behavior and analyze complex systems allows me to design intuitive interfaces and build robust applications that cater to users' needs. Leveraging my expertise in research, critical thinking, and communication, I excel in collaborating with cross-functional teams to deliver high-quality software solutions that make a positive impact. My journey from Psychology to Software Engineering has equipped me with a well-rounded skill set, enabling me to bridge the gap between technology and human experiences to create meaningful and user-centric software products.
 
 ## This is my Tech Stack so far:
