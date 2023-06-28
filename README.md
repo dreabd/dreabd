@@ -3,7 +3,7 @@
 ## About Me
 With a solid foundation in Psychology, I bring a unique perspective to the field of Software Engineering. My ability to comprehend user behavior and analyze complex systems allows me to design intuitive interfaces and build robust applications that cater to users' needs. Leveraging my expertise in research, critical thinking, and communication, I excel in collaborating with cross-functional teams to deliver high-quality software solutions that make a positive impact. My journey from Psychology to Software Engineering has equipped me with a well-rounded skill set, enabling me to bridge the gap between technology and human experiences to create meaningful and user-centric software products.
 
-## This is my Tech Stack so far:
+## My ToolBox: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
