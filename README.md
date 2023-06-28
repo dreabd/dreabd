@@ -20,7 +20,7 @@ With a solid foundation in Psychology, I bring a unique perspective to the field
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Contact Information:
+## Reach me At:
 <a href="https://www.linkedin.com/in/andre-chris-abad-b1a55215a/"/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href=mailto:andreabad17@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
