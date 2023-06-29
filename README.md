@@ -1,5 +1,4 @@
-# Hellooo, I am Andre👌🙌 ![](https://komarev.com/ghpvc/?username=dreabd&color=352A8D)
-
+# Hellooo, I am <a href="https://dreabd.github.io/" target="_blank">Andre<a>👌🙌 ![](https://komarev.com/ghpvc/?username=dreabd&color=352A8D)
 ## About Me
 With a solid foundation in Psychology, I bring a unique perspective to the field of Software Engineering. My ability to comprehend user behavior and analyze complex systems allows me to design intuitive interfaces and build robust applications that cater to users' needs. Leveraging my expertise in research, critical thinking, and communication, I excel in collaborating with cross-functional teams to deliver high-quality software solutions that make a positive impact. My journey from Psychology to Software Engineering has equipped me with a well-rounded skill set, enabling me to bridge the gap between technology and human experiences to create meaningful and user-centric software products.
 
